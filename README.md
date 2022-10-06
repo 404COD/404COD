@@ -4,7 +4,7 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
    </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=44F763&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Me+404+Cod+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Muzafir+Tm+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+Am+from+India+%F0%9F%87%AE%F0%9F%87%B3🔥;I+Am+a+small+GitHub+Program+Coder+%F0%9F%93%88;Please+Support+Me+%E2%9A%99%EF%B8%8F" alt="Muzu" width="650" height="55">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=44F763&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It's+Me+404+Cod+%F0%9F%91%8B%F0%9F%8F%BB;I+am+Muzafir+Tm+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+Am+from+India+🇮🇳+%F0%9F%87%AE%F0%9F%87%B3🔥;I+Am+a+small+GitHub+Noob+Programer+%F0%9F%93%88;Please+Support+Me+%E2%9A%99%EF%B8%8F" alt="Muzu" width="650" height="55">
 
  
 
