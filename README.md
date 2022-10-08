@@ -3,7 +3,7 @@
    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
    </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=44F763&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It.s+Me+404+COD+%F0%9F%91%8B%F0%9F%8F%BB;I+Am+Muzafir+Tm+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;I+Am+From+India+%F0%9F%87%AE%F0%9F%87%B3🔥;I+Am+a+Small+GitHub+Noob+Programer+%F0%9F%93%88" alt="Muzu" width="656" height="59">
+<img src="https://readme-typing-svg.herokuapp.com?font=Kaushan+Script&size=40&duration=3500&color=44F763&background=FFFFFF00&center=true&vCenter=true&width=650&height=55&lines=Hey!+It.s+Me+404+COD+%F0%9F%91%8B%F0%9F%8F%BB;I+Am+Muzafir+Tm+%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Muzu" width="656" height="59">
 
  
 
