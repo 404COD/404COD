@@ -55,7 +55,8 @@
   </a>
   <img alt='Snake animation' src='https://github.com/kauefraga/kauefraga/blob/output/github-contribution-grid-snake.svg' />
 </div>
+</a>
 
-
+  <p align="center">
   <img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”muzafir”>
-  
+  </p>
