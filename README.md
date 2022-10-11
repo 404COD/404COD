@@ -59,5 +59,5 @@
 
 
   <div id="MyClockDisplay" class="clock" 
-   onload="showTime()"></div>
+  onload="showTime()"></div>
     
