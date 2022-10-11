@@ -58,6 +58,6 @@
 
 
 
-<div id="MyClockDisplay" class="clock" 
-onload="showTime()"></div>
+  <div id="MyClockDisplay" class="clock" 
+   onload="showTime()"></div>
     
