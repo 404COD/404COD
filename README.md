@@ -55,3 +55,9 @@
   </a>
   <img alt='Snake animation' src='https://github.com/kauefraga/kauefraga/blob/output/github-contribution-grid-snake.svg' />
 </div>
+
+
+
+<div id="MyClockDisplay" class="clock" onload="showTime()"></div>
+
+    
